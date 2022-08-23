@@ -14,11 +14,11 @@ last_modified_at: 2022-08-21T08:06:00-05:00
 
 **첫번째, 어딘가 종속되고 싶지 않아서**  
 
-![image](\assets\images\Screenshot.png){: width="50%" height="50%"}  
+![image](https://github.com/dawn718718/blogv2/tree/master/assets/images\Screenshot.png){: width="50%" height="50%"}  
 
 여기서 어딘가라고 함은 특정 블로그 플랫폼을 말한다. 국내에선 네이버나 티스토리가 있겠고 해외로는 medium 등이다. (난 소속에 능하지 못한거 같다. 오프라인이나 온라인이나..)  
 참고:  
-[네이버 블로그](https://section.blog.naver.com/)  
+[네이버 블로그](https://section.blog.naver.com/)  gu
 [티스토리](https://www.tistory.com/)  
 [미디엄](https://medium.com/)  
 
