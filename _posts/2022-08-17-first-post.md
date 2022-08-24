@@ -3,9 +3,11 @@ title:  "나의 블로그 시작하기"
 excerpt: "GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다."
 
 categories:
-  - Blog
+  - 언어
 tags:
-  - Blog
+  - 영작의 어려움
+  - 영어와 점점 멀어지는 듯함
+
 last_modified_at: 2022-08-17T08:06:00-05:00
 ---
 
