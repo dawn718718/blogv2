@@ -3,7 +3,7 @@ title:  "How can the implicit governance model can be effective or ineffective"
 excerpt: "About Content Strategy"
 
 categories:
-  - My daily life
+  - Technical writing and contents
   
 tags:
 - Content strategy
